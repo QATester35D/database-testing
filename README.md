@@ -1,1 +1,1 @@
-# database-testing
+This is a practice area for dealing with databases.
