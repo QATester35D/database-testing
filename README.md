@@ -1,1 +1,1 @@
-This is a practice area for dealing with databases.
+Sample repository for dealing with databases and various SQL statements.
